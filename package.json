@@ -1,0 +1,11 @@
+{
+  "name": "iginbox",
+  "version": "1.0.0",
+  "description": "API Instagram Direct Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmy Luna <jimmylunad@gmail.com>",
+  "license": "ISC"
+}
